@@ -1,3 +1,12 @@
-index.md
+---
+layout: default
+title: Butternut - Mouthwatering asset compression
 
-test
+# Getting Started
+
+Butternut is a plugin for bundling assets.
+It integrates with multiple frameworks for a seamless deployment experience.
+
+#### Features
+* Custom commands for bundle compression
+* Compressed bundle caching
